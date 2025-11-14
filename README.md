@@ -6,8 +6,9 @@
 
 ### Full Stack Developer • React Native Developer • From Morocco
 
-[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-Explore_My_Work-0ea5e9?style=for-the-badge\&logo=https://portfolio-app-three-pied.vercel.app/)]()
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=https://www.linkedin.com/in/imad-eddine-kaaouane-699056209/)]()
+
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-Explore_My_Work-0ea5e9?style=for-the-badge)](https://portfolio-app-three-pied.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/imad-eddine-kaaouane-699056209/)
 [![Email](https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ikaaouane@gmail.com)
 
 </div>
@@ -84,7 +85,7 @@ Focused on continuous learning, clean code, and building meaningful digital prod
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_Now-0A66C2?style=for-the-badge\&logo=https://www.linkedin.com/in/imad-eddine-kaaouane-699056209/)]()
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_Now-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/imad-eddine-kaaouane-699056209/)
 [![Email](https://img.shields.io/badge/📧_Email-Send_a_Message-D14836?style=for-the-badge\&logo=gmail)](mailto:ikaaouane@gmail.com)
 
 </div>
