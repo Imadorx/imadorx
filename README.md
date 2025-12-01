@@ -128,6 +128,6 @@ Focused on continuous learning, clean code, and building meaningful digital prod
 
 * 🌍 **Location:** Morocco
 * 💼 **Open to Work:** Freelance & Full-time
-* 🔭 **Currently Working On: Digital Assistant Project
+* 🔭 Currently Working On: Digital Assistant Project
 * 📘 **Currently Learning:** FastAPI, CI/CD
 * 🤝 **Looking to Collaborate On:** Full-stack & Mobile apps
